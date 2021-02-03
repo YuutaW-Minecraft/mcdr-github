@@ -1,6 +1,6 @@
 from typing import Any, Dict, cast
 from requests.models import Response
-from typings import GitHubUserInfo, GitHubProjectInfo, GitHubProjectsRequest, GitHubColumnInfo, GitHubColumnsRequest, GitHubColumnRequest, GitHubCardRequest, GitHubCardInfo, GitHubCardsRequest, GitHubProjectRequest
+from MCDRGitHub.typings.MCDRGitHub import GitHubUserInfo, GitHubProjectInfo, GitHubProjectsRequest, GitHubColumnInfo, GitHubColumnsRequest, GitHubColumnRequest, GitHubCardRequest, GitHubCardInfo, GitHubCardsRequest, GitHubProjectRequest
 import requests
 
 

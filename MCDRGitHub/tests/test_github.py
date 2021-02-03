@@ -1,5 +1,5 @@
-from GitHub import GitHub
-from typings import GitHubCardsState
+from MCDRGitHub.GitHub import GitHub
+from MCDRGitHub.typings.MCDRGitHub import GitHubCardsState
 import unittest
 import os
 
