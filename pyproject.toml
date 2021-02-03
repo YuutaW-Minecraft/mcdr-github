@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mcdr-github"
+name = "mcdrgithub"
 version = "0.1.0"
 description = ""
 authors = ["Yi-Jyun Pan <pan93412@gmail.com>"]
